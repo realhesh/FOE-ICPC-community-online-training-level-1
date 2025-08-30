@@ -1,4 +1,6 @@
-WARNING : this stress testing template works for windows and will not work for the computers in the ECPC since they run on linux
+WARNING 1: this stress testing template works for windows and will not work for the computers in the ECPC since they run on linux
+WARNING 2: resort to stress testing as a last resort, you should try working towards improving your debugging skills first
+
 instructions : 
 
 1.put the brute,main,stress files in the same folder
@@ -14,4 +16,5 @@ instructions :
 6.if your code is wrong, the stress tester code will output the case that makes your code fail, and will tell you the correct output from the brute code and wrong output from your code
 
 7.if the stress tester runs for way too long, try changing the variables allowed sizes
+
 
